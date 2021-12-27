@@ -1,6 +1,8 @@
 este mensaje es para corroborar el funcionamiento de la rama primaria.
 
 hola juan carlos
-
+aqui voy a probar el segundo merge
+*****
 qui parliamo l'italiano e mangiamo i civi fatto in casa. 
+
 
