@@ -1,1 +1,1 @@
-Hola mundo, este es la segunda version del archivo, y tengo que terminar de ver el curso de git y react.
+este mensaje es para corroborar el funcionamiento de la rama primaria.
